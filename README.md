@@ -2,9 +2,8 @@
 
 A clean, responsive, and interactive web page built using **HTML**, **CSS**, and **JavaScript**, designed to showcase a professional team with modals, profile cards, and testimonials.
 
-## 🌐 Live Preview
-
-Coming Soon...
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/Responsive-Team-Members-Page/)
 
 ## 🚀 Features
 
@@ -20,23 +19,19 @@ Coming Soon...
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
-- JavaScript (Vanilla)
+- CSS
+- JavaScript
 
 ## 📂 Folder Structure
 
 ```
-team-members-page/
+Responsive-Team-Pembers-Page/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
 ```
 
-## 📸 Screenshots
-
-> Add screenshots or a link to a live demo once deployed.
 
 ## 📌 How to Use
 
@@ -44,11 +39,19 @@ team-members-page/
 2. Open `index.html` in your browser.
 3. Explore the interactive cards and modal popups.
 
-## ✨ Credits
-
-- Icons by [Font Awesome](https://fontawesome.com/)
-- Fonts by [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
 ## 📃 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
+
+
+
+
+---
+
+⭐️ Don't forget to star this repo if you found it helpful!
